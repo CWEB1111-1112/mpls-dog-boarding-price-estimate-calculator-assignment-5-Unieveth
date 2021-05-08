@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\.idea\.idea.mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

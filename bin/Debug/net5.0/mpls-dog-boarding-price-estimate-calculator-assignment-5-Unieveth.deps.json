@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth/1.0.0": {
+        "runtime": {
+          "mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

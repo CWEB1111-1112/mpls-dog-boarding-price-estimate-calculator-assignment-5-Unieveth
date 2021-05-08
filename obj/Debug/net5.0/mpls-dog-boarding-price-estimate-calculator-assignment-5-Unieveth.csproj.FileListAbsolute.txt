@@ -1,0 +1,16 @@
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.exe
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.deps.json
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.runtimeconfig.json
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.runtimeconfig.dev.json
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dll
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\ref\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dll
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\bin\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.pdb
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.csprojAssemblyReference.cache
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.AssemblyInfoInputs.cache
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.AssemblyInfo.cs
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.csproj.CoreCompileInputs.cache
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dll
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\ref\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.dll
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.pdb
+C:\Users\Conno\RiderProjects\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth\obj\Debug\net5.0\mpls-dog-boarding-price-estimate-calculator-assignment-5-Unieveth.genruntimeconfig.cache
